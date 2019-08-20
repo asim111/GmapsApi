@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">GmapsApi</string>
+    <string name="google_maps_api">AIzaSyCK2igYUtCXR7ubUOYbbbPoMGkoqWz-4v4</string>
+    <string name="button">ok</string>
+</resources>
