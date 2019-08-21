@@ -22,7 +22,6 @@ private Button map_btn;
         setContentView(R.layout.activity_main);
         if(isServiceOk()){
             init();
-            Toast.makeText(this, "dfgdsfgsd", Toast.LENGTH_SHORT).show();
         }
     }
 
